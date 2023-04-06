@@ -23,4 +23,5 @@
 	- Winforms 컨트롤
 	- 리스트뷰, 데이터그리드 추가학습 필요
 3일차 윔폼 학습결과
-<img scr="https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/WInform.png"width="700">
+
+<img scr = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/WInform.png" width="700">
