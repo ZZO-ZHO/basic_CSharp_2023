@@ -25,3 +25,20 @@
 3일차 윔폼 학습결과
 
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/WInform.png" width="700">
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+	
+- Win App
+	- Winforms 컨트롤 마무리
+	- WInforms 예제 실습
+	- 로그인 실습
+
+## 5일차
+- C# 기본
+	- 
+	
+- Win App
+	- Winforms 디자인 오류시 해결방법
+	- Window 탐색기 만들기
