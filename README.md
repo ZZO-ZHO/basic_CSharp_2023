@@ -39,6 +39,7 @@
 - C# 기본
 	- 인터페이스, 추상클래스
 	- 프로퍼티
+	- 배열, 컬렉션
 	
 - Win App
 	- Winforms 디자인 오류시 해결방법
@@ -47,3 +48,27 @@
 5일차 탐색기 만들기중 
 
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/file.png" width="700">
+
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화 프로그래밍
+	- 예외처리
+	- 대리자, 이벤트
+	
+- Win App
+	- 탐색기 마무리
+		- 추가개발 리스트
+		- 컨텍스트메뉴
+		- 보호된 운영체제폴더 숨기기
+		- 리스트뷰 폴더 더블클릭 하위폴더 표시
+	- DB핸들링
+
+5일차 탐색기 만들기중 
+
+<img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form.png" width="700">
+
+## 7일차
+
+	- BookRentalShop DB 사용 WInforms 앱개발
+	- 실습 예제
