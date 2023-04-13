@@ -69,6 +69,25 @@
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form.png" width="700">
 
 ## 7일차
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 애트리뷰트
+	- 더 공부해야할 내용 (LINQ, 리플렉션, dynamic)
 
+- Win App
+	- DB핸들링
+	- SDI vs MDI
+	
+## 8일차
+- C# 기본
+	- 파일 핸들링
+	- 스레드 / 태스크
+	- 가비지 컬랙션
+	
+- Win App
+	- 메모장 만들기
 	- BookRentalShop DB 사용 WInforms 앱개발
-	- 실습 예제
+
+심플 메모장
+<img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
