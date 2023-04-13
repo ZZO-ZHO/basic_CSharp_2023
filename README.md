@@ -89,5 +89,5 @@
 	- 메모장 만들기
 	- BookRentalShop DB 사용 WInforms 앱개발
 
-심플 메모장
+심플 메모장  
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
