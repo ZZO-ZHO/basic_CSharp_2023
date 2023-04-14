@@ -88,6 +88,22 @@
 - Win App
 	- 메모장 만들기
 	- BookRentalShop DB 사용 WInforms 앱개발
+		- WInforms MDI
+		- MySQL.Data Lib DB연동
 
 심플 메모장
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
+
+## 9일차
+- C# 기본
+	- 스레드 / 태스크
+	- 가비지 컬랙션
+	
+- Win App
+	- BookRentalShop 만들기 계속
+	
+## 10일차
+- Win App
+	- BookRentalShop 만들기 계속
+
+- 코딩 테스트
