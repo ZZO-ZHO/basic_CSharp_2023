@@ -90,8 +90,7 @@
 	- BookRentalShop DB 사용 WInforms 앱개발
 		- WInforms MDI
 		- MySQL.Data Lib DB연동
-
-<<<<<<< HEAD
+ 
 심플 메모장
 <img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
 
@@ -102,13 +101,12 @@
 	
 - Win App
 	- BookRentalShop 만들기 계속
+
+심플 메모장  
+<img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
 	
 ## 10일차
 - Win App
 	- BookRentalShop 만들기 계속
 
 - 코딩 테스트
-=======
-심플 메모장  
-<img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form1.png" width="700">
->>>>>>> d76c9a1ca24841e454e1f81d0f2927750e15ff47
