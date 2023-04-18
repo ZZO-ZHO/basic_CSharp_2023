@@ -110,3 +110,7 @@
 	- BookRentalShop 만들기 계속
 
 - 코딩 테스트
+
+10일차 책대여점 프로그램  
+
+<img src = "https://raw.githubusercontent.com/ZZO-ZHO/basic_CSharp_2023/main/image/form2.png" width="700">
